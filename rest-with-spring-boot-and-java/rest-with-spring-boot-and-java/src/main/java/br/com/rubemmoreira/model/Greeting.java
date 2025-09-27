@@ -1,5 +1,5 @@
 package br.com.rubemmoreira.model;
 
-public record Greeting(Long id, String content) {
+public record Greeting(long id, String content) {
 
 }
